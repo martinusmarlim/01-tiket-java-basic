@@ -1,0 +1,8 @@
+==================================================================
+No. | NIM | Nama | Nilai Akhir | Grade
+==================================================================
+1	23456	Marlim	56	D	
+2	123456	Kerry	87	A	
+Jumlah mahasiswa: 2
+Jumlah mahasiswa lulus: 1
+Jumlah mahasiswa tidak lulus: 1
